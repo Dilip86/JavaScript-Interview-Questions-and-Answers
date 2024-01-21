@@ -27,5 +27,5 @@ class Person{
         this.age = age;
     }
 }
-var Obj = new Person('Dilip', 23)
+const Obj = new Person('Dilip', 23)
 
